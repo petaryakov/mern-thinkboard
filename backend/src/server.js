@@ -40,5 +40,3 @@ connectDB().then(() => {
         console.log("Server started on PORT:", PORT);
     });
 });
-
-// mongodb+srv://petaryakov2_db_user:x5flh8i7jc2WBr1x@cluster0.g1qzqne.mongodb.net/?appName=Cluster0
